@@ -1,0 +1,13 @@
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.formPersona.resources
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+c:\users\jorge\documents\visual studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Interop.DTSPipeline.dll
+C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Interop.TxDataConvert.dll
+C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.ResolveComReference.cache
+C:\Users\Jorge\Documents\Visual Studio 2013\Projects\Tutorial\Tutorial\obj\Debug\Tutorial.visorReporte.resources
